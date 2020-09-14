@@ -1,0 +1,3 @@
+﻿  helloword_cmd.cpp
+LINK : warning LNK4044: нераспознанный параметр "/utf8"; игнорируется
+  helloword_cmd.vcxproj -> C:\Users\kodzu\source\repos\helloword_cmd\Debug\helloword_cmd.exe
